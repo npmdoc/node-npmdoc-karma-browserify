@@ -1,0 +1,4 @@
+npmdoc-karma-browserify@0.0.1 /home/travis/build/npmdoc/node-npmdoc-karma-browserify
+└─┬ watchify@3.9.0 
+  └── outpipe@1.1.1 
+
